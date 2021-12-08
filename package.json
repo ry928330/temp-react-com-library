@@ -1,0 +1,26 @@
+{
+  "name": "@ry928330/temp-react-com-library",
+  "version": "1.0.0",
+  "description": "template react component libbrary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ry928330/temp-react-com-library.git"
+  },
+  "keywords": [
+    "react",
+    "component"
+  ],
+  "author": "ryyyyy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ry928330/temp-react-com-library/issues"
+  },
+  "homepage": "https://github.com/ry928330/temp-react-com-library#readme",
+  "publishConfig": {
+    "registry": "https://github.com/ry928330"
+  }
+}
